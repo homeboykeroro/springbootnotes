@@ -1,6 +1,6 @@
 # springbootnotes
 
-### This project is to demonstrate Java Spring Boot project setup, project structure and general backend functions. The codebase's endpoint API adheres to the repository [angular-notes](https://github.com/gothinkster/realworld-example-apps) <br/><br/>
+### This project is to demonstrate Java Spring Boot project setup, project structure and general backend functions. The codebase's endpoint API adheres to the repository [angular-notes](https://github.com/homeboykeroro/angular-notes) <br/><br/>
 
 ## Framework/ Thrid Party Library Adapted
 - **Spring Boot** is used to simplfy and facilitate whole Spring project development. We don't need to manually configure core Spring components manualy such as Spring MVC DispatcherServlet, Spring Data JPA Transactional Management and Spring Beans scanning
